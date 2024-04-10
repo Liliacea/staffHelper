@@ -1,0 +1,51 @@
+2024-02-10 11:03:15 DEBUG Telegrambot:32 - 123
+2024-02-10 11:15:23 DEBUG Telegrambot:35 - 123
+2024-02-10 11:15:24 ERROR Telegrambot:48 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2024-02-10 11:57:45 DEBUG Telegrambot:35 - 123
+2024-02-11 17:08:40 DEBUG UpdateProduserImpl:15 - 123
+2024-02-11 17:08:59 ERROR UpdateProcessor:42 - Unsupported message type is received: Update(updateId=407947620, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=Message(messageId=23, from=User(id=1431086418, firstName=Юлия, isBot=false, lastName=Сидорова, userName=MasterNin, languageCode=en, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null), date=1707660520, chat=Chat(id=1431086418, type=private, title=null, firstName=Юлия, lastName=Сидорова, userName=MasterNin, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null), forwardFrom=null, forwardFromChat=null, forwardDate=null, text=1233, entities=null, captionEntities=null, audio=null, document=null, photo=null, sticker=null, video=null, contact=null, location=null, venue=null, animation=null, pinnedMessage=null, newChatMembers=[], leftChatMember=null, newChatTitle=null, newChatPhoto=null, deleteChatPhoto=null, groupchatCreated=null, replyToMessage=null, voice=null, caption=null, superGroupCreated=null, channelChatCreated=null, migrateToChatId=null, migrateFromChatId=null, editDate=1707660539, game=null, forwardFromMessageId=null, invoice=null, successfulPayment=null, videoNote=null, authorSignature=null, forwardSignature=null, mediaGroupId=null, connectedWebsite=null, passportData=null, forwardSenderName=null, poll=null, replyMarkup=null, dice=null, viaBot=null, senderChat=null, proximityAlertTriggered=null, messageAutoDeleteTimerChanged=null, isAutomaticForward=null, hasProtectedContent=null, webAppData=null, videoChatStarted=null, videoChatEnded=null, videoChatParticipantsInvited=null, videoChatScheduled=null), channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=null, chatMember=null, chatJoinRequest=null)
+2024-02-12 07:12:09 DEBUG UpdateProduserImpl:15 - 123
+2024-02-12 07:12:44 DEBUG UpdateProduserImpl:15 - 123
+2024-02-12 07:15:20 DEBUG UpdateProduserImpl:15 - 123
+2024-02-12 07:20:55 DEBUG UpdateProduserImpl:15 - Ввв
+2024-03-16 08:24:33 DEBUG UpdateProduserImpl:18 - hello1
+2024-03-16 11:37:09 DEBUG UpdateProduserImpl:18 - hello from chat
+2024-03-16 11:38:17 DEBUG UpdateProduserImpl:18 - hello
+2024-03-16 11:44:06 DEBUG UpdateProduserImpl:18 - hello
+2024-03-16 11:44:53 DEBUG UpdateProduserImpl:18 - hello
+2024-03-17 16:51:38 DEBUG UpdateProduserImpl:18 - hello
+2024-03-17 17:14:33 DEBUG UpdateProduserImpl:18 - 1
+2024-03-17 17:14:51 DEBUG UpdateProduserImpl:18 - 2
+2024-03-17 17:16:35 DEBUG UpdateProduserImpl:18 - 1
+2024-03-17 17:16:37 DEBUG UpdateProduserImpl:18 - 2
+2024-03-17 17:16:39 DEBUG UpdateProduserImpl:18 - 3
+2024-03-17 17:21:14 DEBUG UpdateProduserImpl:18 - 55
+2024-03-17 20:14:38 DEBUG UpdateProduserImpl:18 - 1
+2024-03-17 22:49:16 DEBUG UpdateProduserImpl:18 - 1
+2024-03-17 22:50:23 DEBUG UpdateProduserImpl:18 - 1
+2024-03-18 00:18:06 DEBUG UpdateProduserImpl:18 - 1
+2024-03-18 00:25:43 DEBUG UpdateProduserImpl:18 - 1
+2024-03-18 00:25:43 DEBUG UpdateProduserImpl:18 - 1
+2024-03-18 00:27:05 DEBUG UpdateProduserImpl:18 - 1
+2024-03-18 20:38:02 DEBUG UpdateProduserImpl:18 - 1
+2024-03-18 21:27:58 DEBUG UpdateProduserImpl:18 - 1
+2024-03-18 21:31:32 DEBUG UpdateProduserImpl:18 - 1
+2024-03-21 05:57:49 DEBUG UpdateProduserImpl:18 - /start
+2024-03-21 05:58:10 DEBUG UpdateProduserImpl:18 - /help
+2024-03-21 05:58:19 DEBUG UpdateProduserImpl:18 - /cance;
+2024-03-21 05:58:27 DEBUG UpdateProduserImpl:18 - /cancel
+2024-03-21 05:59:24 DEBUG UpdateProduserImpl:18 - 
+2024-04-07 09:03:14 DEBUG UpdateProduserImpl:18 - 1
+2024-04-07 09:03:21 DEBUG UpdateProduserImpl:18 - /help
+2024-04-07 09:03:27 DEBUG UpdateProduserImpl:18 - /help
+2024-04-07 09:07:49 DEBUG UpdateProduserImpl:18 - 1
+2024-04-07 09:07:54 DEBUG UpdateProduserImpl:18 - /help
+2024-04-07 09:08:59 DEBUG UpdateProduserImpl:18 - /start
+2024-04-07 09:10:30 DEBUG UpdateProduserImpl:18 - /start
+2024-04-07 09:10:35 DEBUG UpdateProduserImpl:18 - /help
+2024-04-07 09:11:05 DEBUG UpdateProduserImpl:18 - 
+2024-04-07 16:16:36 DEBUG UpdateProduserImpl:18 - 1
+2024-04-07 16:16:42 DEBUG UpdateProduserImpl:18 - /help
+2024-04-07 16:16:50 DEBUG UpdateProduserImpl:18 - 
+2024-04-07 20:04:54 DEBUG UpdateProduserImpl:18 - 
+2024-04-08 08:52:13 DEBUG UpdateProduserImpl:18 - 
